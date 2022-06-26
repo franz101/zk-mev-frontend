@@ -1,7 +1,7 @@
 {
   "name": "create-react-app-with-typescript",
   "version": "5.0.0",
-  "homepage": "https://franz101.github.io/zkMEV/",
+  "homepage": "https://franz101.github.io/zk-mev-frontend/",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.2.1",

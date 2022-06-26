@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/zk-mev-frontend/static/js/main.4f09e60d.js",
+    "main.js": "/zk-mev-frontend/static/js/main.fe242a31.js",
     "static/js/563.8ef30dd2.chunk.js": "/zk-mev-frontend/static/js/563.8ef30dd2.chunk.js",
     "static/js/163.c867e710.chunk.js": "/zk-mev-frontend/static/js/163.c867e710.chunk.js",
     "index.html": "/zk-mev-frontend/index.html",
-    "main.4f09e60d.js.map": "/zk-mev-frontend/static/js/main.4f09e60d.js.map",
+    "main.fe242a31.js.map": "/zk-mev-frontend/static/js/main.fe242a31.js.map",
     "163.c867e710.chunk.js.map": "/zk-mev-frontend/static/js/163.c867e710.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4f09e60d.js"
+    "static/js/main.fe242a31.js"
   ]
 }

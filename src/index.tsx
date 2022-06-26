@@ -11,7 +11,7 @@ const rootElement = document.getElementById("root");
 const root = createRoot(rootElement!);
 
 root.render(
-  <BrowserRouter basename="/zkMEV">
+  <BrowserRouter basename="/zk-mev-frontend">
     <Routes>
       <Route element={<App />}>
         <Route path="/" element={<Home />} />
